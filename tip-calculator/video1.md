@@ -37,7 +37,9 @@ Open the package.json file.  Notice that svelte is a dev dependency.  This means
 Also note that the three commands in your package.json, dev, build, and start.
 
 Start will serve the index.html file in the public folder
+
 Dev will serve the index.html file in the public folder and will recompile your application when it changes
+
 Build is for building your app for production.
 
 ```json
@@ -54,7 +56,7 @@ Open up source folder and you will see the main.js file.  This is the entry poin
 
 Open the src/App.svelte file.  Notice that it is taking in prop name and showing that on the page.  This is why the page now says Hello {Yourname}.  Note all components will go into the src folder.
 
-Open up the public folder.  Here you will find the index.html, global css and the build folders we talked about previously.  global.css is just a css file no magic there.  Same for our index.html.  The notice that these files already have link and script tags for the bundle.js and bundle.css files.
+Open up the public folder.  Here you will find the index.html, global css and the build folders we talked about previously.  global.css is just a css file no magic there.  Same for our index.html.  Notice that these files already have link and script tags for the bundle.js and bundle.css.
 
 
 
