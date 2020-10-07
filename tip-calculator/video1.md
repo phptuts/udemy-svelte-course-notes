@@ -56,7 +56,7 @@ Open up source folder and you will see the main.js file.  This is the entry poin
 
 Open the src/App.svelte file.  Notice that it is taking in prop name and showing that on the page.  This is why the page now says Hello {Yourname}.  Note all components will go into the src folder.
 
-Open up the public folder.  Here you will find the index.html, global css and the build folders we talked about previously.  global.css is just a css file no magic there.  Same for our index.html.  Notice that these files already have link and script tags for the bundle.js and bundle.css.
+Open up the public folder.  Here you will find the index.html, global.css files and the build folder we talked about previously. The global.css is just a css file no magic there.  Same for our index.html.  Notice that these files already have link and script tags for the bundle.js and bundle.css files.
 
 
 
