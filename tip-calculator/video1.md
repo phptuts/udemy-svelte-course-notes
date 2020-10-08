@@ -32,7 +32,7 @@ Go to your local website, localhost:3000 and make sure that svelte is running.
 
 ## Svelte Overview
 
-Open the package.json file.  Notice that svelte is a dev dependency.  This means that the whole svelte library does not ship with your app.  Only the parts of svelte library you need ship with your app.
+Open the package.json file.  Notice that svelte is a dev dependency.  This means that the whole svelte library does not ship with your app.  Svelte will only include the parts of it's library you need when compiling your application.
 
 Also note that the three commands in your package.json, dev, build, and start.
 
