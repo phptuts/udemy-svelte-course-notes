@@ -1,5 +1,6 @@
-## Svelte Overview
+# Svelte Overview
 
+## Package.json
 1. Open the package.json file.  
 
 2. Notice that svelte is a dev dependency.  This means that the whole svelte library does not ship with your app.  Svelte will only include the parts of it's library you need when compiling your application.
@@ -22,6 +23,10 @@
 ## Rollup
 
 Open up the rollup.config.js file.  This is where svelte gets compiled. The starting point for your svelte app is src/main.js.  Your app javascript will be compile into a file called bundle.js and your css will be compiled into a file called bundle.css.
+
+## Scripts Folder
+
+It has one script for turning your project into a typescript project.
 
 ## Src Folder
 
