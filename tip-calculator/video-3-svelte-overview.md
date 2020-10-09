@@ -23,8 +23,12 @@
 
 Open up the rollup.config.js file.  This is where svelte gets compiled. The starting point for your svelte app is src/main.js.  Your app javascript will be compile into a file called bundle.js and your css will be compiled into a file called bundle.css.
 
+## Src Folder
+
 Open up source folder and you will see the main.js file.  This is the entry point in your application.  The App component is being passed a prop named "name".  Go ahead change the prop store your name as it's value.  This will changes page to Hello {YourName}.  Look at the target being passed into the App component.  In the App Component we are targeting the body element.  This means that the App.svelte component will control the body of the page.
 
 Open the App.svelte file.  It's taking in prop name and showing that on the page.  This is why the page now says Hello {Yourname}.  Note all components will go into the src folder.
+
+## Public Folder
 
 Open up the public folder.  Here you will find the index.html, global.css files and the build folder we talked about previously. The global.css is just a css file no magic there.  Same for our index.html.  These files already have link and script tags for the bundle.js and bundle.css files.
