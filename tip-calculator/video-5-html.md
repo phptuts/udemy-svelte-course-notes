@@ -44,7 +44,7 @@
 
 5) Add the input for the tip 
 
-```
+```html
 <section class="row">
     <div class="column">
       <label for="tip">Tip (15%)</label>
