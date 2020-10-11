@@ -1,5 +1,10 @@
 # HTML For Tip Calculator
 
+We build out our html and css in this section.
+
+[Code Branch](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-5-html)
+[Emmet Cheat Cheat](https://docs.emmet.io/cheat-sheet/)
+[Milligram CSS](https://milligram.io/)
 
 1) Add the container section
 
@@ -63,7 +68,7 @@
 
 7) Create a section with 3 buttons for preset tips.
 
-```
+```html
 <section class="row">
     <div class="column"><button class="button button-outline">15%</button></div>
     <div class="column"><button class="button button-outline">25%</button></div>
@@ -74,7 +79,7 @@
 8) Make the button take 100% of the width
 
 
-```
+```css
 button {
     width: 100%;
 }
@@ -82,7 +87,7 @@ button {
 
 9) Create the total tip at the button of the page
 
-```
+```html
 <section class="row">
     <div class="column">
       <h2>Total Tip $12.12</h2>
@@ -92,7 +97,7 @@ button {
 
 10) Style the calculated Tip to be center and increase the top margin
 
-```
+```css
 h2 {
     text-align: center;
     margin-top: 20px;
