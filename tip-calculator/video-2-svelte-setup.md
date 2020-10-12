@@ -1,3 +1,12 @@
+# Svelte Setup
+
+How to install svelte js on your laptop or computer.
+
+## Resources
+
+- [Svelte Website](https://svelte.dev/)
+
+## Steps
 
 1) Open visual studio code to the project folder you are going to use for your tip calculator.
 
