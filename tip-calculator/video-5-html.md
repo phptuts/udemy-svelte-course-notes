@@ -3,7 +3,7 @@
 We build out our html and css in this section.
 
 ## Resources
-- [Code Branch](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-5-html)
+- [Code](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-5-html)
 - [Emmet Cheat Cheat](https://docs.emmet.io/cheat-sheet/)
 - [Milligram CSS](https://milligram.io/)
 
