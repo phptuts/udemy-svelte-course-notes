@@ -59,7 +59,7 @@ body {
 
 9) Change the title to Tip Calculator in the index.html file.
 
-```
+```html
 <title>Tip Calculator</title>
 ```
 
@@ -68,7 +68,7 @@ body {
 11) Insert a link css tag for our extra css file which will contian our milligram.css
 
 ```html
-	<link rel='stylesheet' href='extra.css'>
+<link rel='stylesheet' href='extra.css'>
 ```
 
 12) Test Everything out by running npm run dev
