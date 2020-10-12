@@ -2,9 +2,13 @@
 
 We build out our html and css in this section.
 
-[Code Branch](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-5-html)
-[Emmet Cheat Cheat](https://docs.emmet.io/cheat-sheet/)
-[Milligram CSS](https://milligram.io/)
+## Resources
+- [Code Branch](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-5-html)
+- [Emmet Cheat Cheat](https://docs.emmet.io/cheat-sheet/)
+- [Milligram CSS](https://milligram.io/)
+
+
+## Steps
 
 1) Add the container section
 
