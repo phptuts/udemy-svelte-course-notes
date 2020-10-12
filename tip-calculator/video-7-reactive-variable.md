@@ -29,6 +29,6 @@ $: tipAmount = calcTip(tip, price);
 
 3) Output the reactive variable in the template
 
-```html
+```svelte
 <h2>Calculated Tip: {tipAmount}</h2>
 ```
