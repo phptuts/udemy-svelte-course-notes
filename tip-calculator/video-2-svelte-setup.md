@@ -4,7 +4,7 @@ How to install svelte js on your laptop or computer.
 
 ## Resources
 
-- [Code Branch](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-2-project-setup)
+- [Code](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-2-project-setup)
 - [Svelte Website](https://svelte.dev/)
 
 ## Steps
