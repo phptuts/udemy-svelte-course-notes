@@ -1,5 +1,16 @@
 # Svelte Cleanup / Install Package
 
+- We get milligram css working with our svelte website
+- Cleanup all the added html and css code
+
+## Resources
+
+- [Rollup Plugin Css Only](https://github.com/thgh/rollup-plugin-css-only)
+- [Milligram CSS](https://milligram.io/)
+- [Gh Pages](https://github.com/tschaub/gh-pages)
+
+## Steps
+
 1) Install packages
 
 ```bash
