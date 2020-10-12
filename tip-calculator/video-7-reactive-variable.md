@@ -6,6 +6,7 @@
 
 - [Code](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-7-reactive-variable)
 - [Reactive Variables](https://svelte.dev/examples#reactive-declarations)
+- [toStringLocale](https://www.w3schools.com/jsref/jsref_tolocalestring_number.asp)
 
 ## Steps
 
