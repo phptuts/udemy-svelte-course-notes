@@ -5,7 +5,7 @@
 
 ## Resources
 
-- [Code Branch](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-4-cleanup-install-packages)
+- [Code](https://github.com/phptuts/udemy-svelte-tip-calculator/tree/video-4-cleanup-install-packages)
 - [Rollup Plugin Css Only](https://github.com/thgh/rollup-plugin-css-only)
 - [Milligram CSS](https://milligram.io/)
 - [Gh Pages](https://github.com/tschaub/gh-pages)
