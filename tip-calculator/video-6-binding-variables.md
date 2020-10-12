@@ -34,9 +34,9 @@
 
 3) Output the tip in the label
 
-```
+```html
 <label for="tip">Tip ({tip}%)</label>
-``
+```
 
 4) Create a function changes the tip variable to a new value.
 
