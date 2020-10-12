@@ -13,19 +13,19 @@
 1) Create a function that calculates the tip amount.
 
 ```javascript
-function calcTip(tip, price) {
+function calculatedTip(price, tip) {
     const calcTip = (price * (tip / 100));
-    return calcTip.toLocaleString('en-US',{
-        currency: 'USD',
-        style: 'currency'
-    })
+    return calcTip.toLocaleString('en-US', {
+        style: 'currency',
+        currency: 'USD'
+    });
 }
 ```
 
 2) Create a reactive variable
 
 ```javascript
-$: tipAmount = calcTip(tip, price);
+$: tipAmount = calculatedTip(price, tip);
 ```
 
 3) Output the reactive variable in the template
